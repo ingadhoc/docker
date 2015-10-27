@@ -8,7 +8,6 @@ This is a fork of odoo docker official image. We make the fork for two reasons t
 For each odoo mayor release we use on that release tag a controled odoo version (like nightly 20150728). Then, we add a .x for latest releases, so, for eg. we have this tags:
 ## 8.0: controled odoo version of odoo 8.0
 ## 8.0.x: last odoo version of odoo 8.0
-## 7.0: controled odoo version of odoo 7.0
 
 
 # About this Repo
