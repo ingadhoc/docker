@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM ubuntu:trusty
 MAINTAINER Juan Jose Scarafia <jjs@adhoc.com.ar>
 
 # Install some deps, lessc and less-plugin-clean-css, and wkhtmltopdf
